@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="current_location_weather">Pune</string>
+    <string name="_30_degree">20 degree celcius</string>
+    <string name="delhi">Delhi</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="sunny_with_a_high_of_25_c">Sunny with a high of 25°C</string>
+    <string name="new_york_usa">New York, USA</string>
+    <string name="something_went_wrong">Something Went wrong</string>
+    <string name="loading">Loading weather of your current location...</string>
+    <string name="temperature">Today\'s temperature is %s ℃</string>
+</resources>
